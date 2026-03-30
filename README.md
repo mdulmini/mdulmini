@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=false&vCenter=true&width=700&lines=Hi+there!+I'm+Maneesha+Dulmini+%F0%9F%91%8B;Graduate+Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express.js" alt="Typing SVG" />
 
-🎓 BSc (Hons) Software Engineering — *2:1* | University of Plymouth &nbsp;|&nbsp; 🌍 Sri Lanka
+🎓 BSc (Hons) Software Engineering — **2:1** | University of Plymouth &nbsp;|&nbsp; 🌍 Sri Lanka
 
 <p align="left">
   <a href="https://linkedin.com/in/maneesha-dulmini-570a78293">
@@ -30,7 +30,7 @@
 
 ## 👩‍💻 About Me
 
-javascript
+```javascript
 const maneesha = {
   role: "Graduate Software Engineer & Full Stack Developer",
   education: "BSc (Hons) Software Engineering - 2:1 | University of Plymouth",
@@ -40,7 +40,7 @@ const maneesha = {
   interests: ["Web Development", "UI/UX Design", "Agile Practices"],
   currentlyLooking: "Software Engineer Internship / Software Developer Role",
 };
-
+```
 
 ---
 
@@ -61,7 +61,7 @@ const maneesha = {
 
 A full-stack web application supporting transactions and communication between fishers and buyers, featuring role-based authentication for Fisher and Buyer users.
 
-*Tech:* React.js (Vite) &nbsp; Node.js &nbsp; Express.js &nbsp; MongoDB
+**Tech:** `React.js (Vite)` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `MongoDB`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdulmini/fisheries-app.git)
 
@@ -72,7 +72,7 @@ A full-stack web application supporting transactions and communication between f
 
 A full-stack e-commerce platform promoting Sri Lankan traditional handicrafts, with comprehensive manual, automated, and usability testing.
 
-*Tech:* React.js &nbsp; Node.js &nbsp; Firebase &nbsp; MongoDB
+**Tech:** `React.js` &nbsp; `Node.js` &nbsp; `Firebase` &nbsp; `MongoDB`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhathiknk/ino_store_web.git)
 
@@ -83,7 +83,7 @@ A full-stack e-commerce platform promoting Sri Lankan traditional handicrafts, w
 
 A group-based software system built with Agile methodology, focusing on frontend development and UI/UX improvements using version control.
 
-*Tech:* HTML5 &nbsp; CSS3 &nbsp; JavaScript &nbsp; Firebase
+**Tech:** `HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` &nbsp; `Firebase`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chanidu-senanayake/Computing-Group-Project.git)
 
@@ -129,3 +129,4 @@ A group-based software system built with Agile methodology, focusing on frontend
 <div align="center">
   ⭐ <i>"Continuously learning, always building."</i> ⭐
 </div>
+
