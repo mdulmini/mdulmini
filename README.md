@@ -89,39 +89,6 @@ A group-based software system built with Agile methodology, focusing on frontend
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdulmini&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=mdulmini&theme=dark&hide_border=false" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
-
-![Maneesha's Stats](https://github-readme-stats.vercel.app/api?username=mdulmini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdulmini&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mdulmini/mdulmini/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
 </div>
