@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=mdulmini&label=Profile%20views&color=6C63FF&style=flat" alt="mdulmini" />
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/mdulmini.svg)](https://user-badge.committers.top/sri_lanka/mdulmini)
-
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=false&vCenter=true&width=700&lines=Hi+there!+I'm+Maneesha+Dulmini+%F0%9F%91%8B;Graduate+Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express.js" alt="Typing SVG" />
